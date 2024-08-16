@@ -9,4 +9,4 @@ A web app that accesses trivia questions from the [Open Trivia Database API](htt
 - Choose question type (multiple choice, true/false, both)
 - Choose app theme (light or dark mode)
 
-![Quizzical web app](public/Quizzical light mode screenshot.jpg)
+![Quizzical web app](/Quizzical light mode screenshot.jpg)
