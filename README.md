@@ -2,6 +2,8 @@
 
 A web app that accesses trivia questions from the [Open Trivia Database API](https://opentdb.com/) and scores players based on their answers. Based on Bob Ziroll’s React Course on Scrimba.
 
+Try it here: [Quizzical](https://quizzical-project-one.vercel.app/)
+
 ### Features
 
 - Choose question category
